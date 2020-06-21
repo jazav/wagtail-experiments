@@ -3,6 +3,15 @@
 !/.idea/
 .vscode
 
+!/.idea/vcs.xml
+!/.idea/inspectionProfiles/
+!/.idea/.gitignore
+!/.idea/workspace.xml
+!/.idea/misc.xml
+!/.idea/wagtail-experiments.iml
+!/.idea/modules.xml
+/.idea/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
