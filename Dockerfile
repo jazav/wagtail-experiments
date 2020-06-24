@@ -1,5 +1,5 @@
 # Use an official Python runtime as a parent image
-FROM python:3.8-buster
+FROM python:3.8-slim
 #LABEL maintainer="hello@wagtail.io"
 
 # Set environment varibles
